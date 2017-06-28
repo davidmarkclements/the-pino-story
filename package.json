@@ -1,5 +1,5 @@
 {
-  "name": "presentation-the-cost-of-logging",
+  "name": "the-pino-story",
   "version": "0.0.0",
   "dependencies": {
     "bespoke-pdf": "^1.1.3",
