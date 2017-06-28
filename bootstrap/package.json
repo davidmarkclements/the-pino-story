@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-deck",
+  "version": "1.0.0",
+  "skin": "@deck/skin-light",
+  "files": [
+    "Readme.md",
+    "deck.md",
+    "images",
+    "code"
+  ],
+  "dependencies": {
+    "@deck/present": "^1.1.0",
+    "@deck/skin-light": "^1.0.3"
+  },
+  "author": "undefined",
+  "license": "Attribution-ShareAlike 4.0 International"
+}
